@@ -2,7 +2,7 @@
   description = "A very basic flake";
 
   inputs = {
-    lighthouseAlexandria.url = "path:/home/seba/lighthouseAlexandria";
+    lighthouseAlexandria.url = "path:/home/sieyes/baghdad_plane/flakes/lighthouseAlexandria";
   };
 
   outputs = inputs: let
